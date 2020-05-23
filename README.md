@@ -33,11 +33,11 @@ Existing files in `sources/` should be edited in-line.
 ### 케라스 공식 문서 한국어판
 케라스 공식 문서의 한국어판입니다. 이미 딥러닝에 익숙한 연구자 및 개발자 외에도 처음 딥러닝을 접하는 사용자들이 최대한 쉽게 이해하고 사용할 수 있도록 그 의미와 용법, 용례가 정확하고 명료하게 그리고 최대한 자연스러운 문장으로 나타나도록 작성되었습니다.
 
-## <div id="HowToDo">활동방법</div>
+#### <div id="HowToDo">활동방법</div>
   케라스 공식 페이지에 올라와 있는 영문 문서들을 번역 양식에 맞게 한글로 번역하는 활동을 진행할 것입니다. 현재 이미 번역되어 있는 문서들도 다수 존재하기 때문에, 그들을 제외한
 Examples(https://keras.io/examples/addition_rnn/) 카테고리에 있는 문서들을 집중적으로 번역할 예정입니다. 
 
-### <div id="plan">1. 커뮤니티 활동 계획</div>
+#### <div id="plan">1. 커뮤니티 활동 계획</div>
 9주차 : 팀프로젝트 선정, 개인별 기여방식 논의<br>
 10주차 : 팀 static page 생성, 프로젝트별 소개 페이지 작성<br>
 11주차 : 선정 커뮤니티(프로젝트 소개), 프로젝트 활동 방법과 계획 정리, 개인별 역할 정리 후 static page 작성<br>
@@ -46,14 +46,13 @@ Examples(https://keras.io/examples/addition_rnn/) 카테고리에 있는 문서�
 14주차 :   
 15주차 :  
   
-### <div id="WhatToDo">2. 기여방법</div>
+#### <div id="WhatToDo">2. 기여방법</div>
 
 **역할**  
   
 > 문서 번역<br>
 >   : Deep Dream, Image OCR, Auxiliary Classifier GAN, Convolutional LSTM, Bidrectional LSTM<br>
 > 정적 페이지 wiki관리 
-
 
 ### 번역 가이드라인
 
