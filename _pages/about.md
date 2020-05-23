@@ -12,3 +12,6 @@ github : [ldj9876](https://github.com/ldj9876)
 
 Team : [8조](https://github.com/20-1-SKKU-OSS/2020-1-OSS-8)  
 Team page : [2020-1-OSS-8](https://20-1-skku-oss.github.io/2020-1-OSS-8/)
+
+# Contact
+Email : zzangt2@gmail.com
