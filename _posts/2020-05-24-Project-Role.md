@@ -29,3 +29,12 @@ tags:
 <p> 번역할 문서 : Deep Dream, Image OCR, Auxiliary Classifier GAN, Convolutional LSTM, Bidrectional LSTM</p>
 <p> 정적 페이지 총괄 </p>
 <p> github wiki 관리</p>
+<br>
+<h1>커뮤니티 활동 계획</h1>
+9주차 : 팀프로젝트 선정, 개인별 기여방식 논의<br>
+10주차 : 팀 static page 생성, 프로젝트별 소개 페이지 작성<br>
+11주차 : 선정 커뮤니티(프로젝트) 소개, 활동 방법, 활동 계획, 개인별 역할 정리 후 static page에 작성<br>
+12주차 : <br>
+13주차 :   
+14주차 :   
+15주차 :  
