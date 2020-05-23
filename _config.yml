@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Lee DongJun"
   avatar : "/img/bug.jpg"
-  bio    : "2017312576 Lee DongJun Team-8"
+  bio    : "2017312576 Lee DongJun "
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
