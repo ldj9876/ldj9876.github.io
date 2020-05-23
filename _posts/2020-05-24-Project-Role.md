@@ -7,26 +7,22 @@ tags:
   - Project
 ---
 
-## 이름: 김태규<br>
-> - 문서 번역<br>
-> : Baby RNN, Baby MemNN, CIFAR-10 CNN, CIFAR-10 ResNet, Confolution filter visualization<br>
-> - 정적 페이지 총괄 
-> - github issue 관리<br>
-   
-## 이름: 박정은<br>
-> - 문서 번역<br>
-> : Fasttext for text classification, Sentiment classification LSTM, Sequence to sequence – training, Sequence to sequence – prediction<br>
-> - 정적 페이지 관리
-> - github readme 제작 및 관리<br>
-  
-## 이름: 김유현   
-> - 문서 번역<br>
-> : 1D CNN for text classification, sentiment classification, CNN-LSTM, Stateful LSTM, LSTM for text generation, Custom layer – antirectifier<br>
-> - 정적 페이지 관리
-> - github project 관리<br>
-  
-## 이름: 이동준   
-> - 문서 번역<br>
-> : Deep Dream, Image OCR, Auxiliary Classifier GAN, Convolutional LSTM, Bidrectional LSTM<br>
-> - 정적 페이지 관리
-> - github wiki 관리<br>
+<h2> 김태규 </h2>
+<p> 번역할 문서 : Baby RNN, Baby MemNN, CIFAR-10 CNN, CIFAR-10 ResNet, Confolution filter visualization</p>
+<p> 정적 페이지 총괄 </p>
+<p> github issue 관리</p>
+<br>
+<h2> 박정은 </h2>
+<p> 번역할 문서 :Fasttext for text classification, Sentiment classification LSTM, Sequence to sequence – training, Sequence to sequence – prediction</p>
+<p> 정적 페이지 관리 </p>
+<p> github README 관리</p>
+<br>
+<h2> 김유현 </h2>
+<p> 번역할 문서 : 1D CNN for text classification, sentiment classification, CNN-LSTM, Stateful LSTM, LSTM for text generation, Custom layer – antirectifiern</p>
+<p> 정적 페이지 관리 </p>
+<p> github project 관리</p>
+<br>
+<h2> 이동준 </h2>
+<p> 번역할 문서 : Deep Dream, Image OCR, Auxiliary Classifier GAN, Convolutional LSTM, Bidrectional LSTM</p>
+<p> 정적 페이지 총괄 </p>
+<p> github wiki 관리</p>
