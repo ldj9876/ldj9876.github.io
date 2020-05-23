@@ -7,7 +7,7 @@ tags:
   - Project
 ---
 
-<h2> Chrome TabNotㄷ </h2> <br>
+<h2> Chrome TabNot </h2> <br>
 <p> 장점 : 프로그래밍적으로 기여할 수 있는 요소가 있음.</p> <br>
 <p> 단점 : 마지막 커밋이 2년전, html, css, js 가 익숙하지 않아 따로 배워야함. 기여 할 요소가 많이 보이지는 않음.</p> <br>
 
