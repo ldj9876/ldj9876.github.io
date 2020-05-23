@@ -1,6 +1,6 @@
 ---
 title: "Select Team Project"
-date: 2020-05-18T16:04:18
+date: 2020-05-18
 categories:
   - team
 tags:
