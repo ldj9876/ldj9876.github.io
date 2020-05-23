@@ -37,7 +37,7 @@ Existing files in `sources/` should be edited in-line.
   케라스 공식 페이지에 올라와 있는 영문 문서들을 번역 양식에 맞게 한글로 번역하는 활동을 진행할 것입니다. 현재 이미 번역되어 있는 문서들도 다수 존재하기 때문에, 그들을 제외한
 Examples(https://keras.io/examples/addition_rnn/) 카테고리에 있는 문서들을 집중적으로 번역할 예정입니다. 
 
-#### <div id="plan">1. 커뮤니티 활동 계획</div>
+#### <div id="plan">커뮤니티 활동 계획</div>
 9주차 : 팀프로젝트 선정, 개인별 기여방식 논의<br>
 10주차 : 팀 static page 생성, 프로젝트별 소개 페이지 작성<br>
 11주차 : 선정 커뮤니티(프로젝트 소개), 프로젝트 활동 방법과 계획 정리, 개인별 역할 정리 후 static page 작성<br>
@@ -46,7 +46,6 @@ Examples(https://keras.io/examples/addition_rnn/) 카테고리에 있는 문서�
 14주차 :   
 15주차 :  
   
-#### <div id="WhatToDo">2. 기여방법</div>
 
 **역할**  
   
