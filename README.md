@@ -1,4 +1,4 @@
-# TEAM 8 
+# Lee DongJun (Team 8)
 - [Homepage](#HOME_PAGE)
 - [정보](#Members)
 - [프로젝트 소개](#about_project)
