@@ -6,7 +6,10 @@ categories:
 tags:
   - Project
 ---
+<h1> 프로젝트 개선 방향 </h1>
+<p> 다른 부분은 어느정도 완성되어 있어 오타 및 오역의 수정만 하면 된다. 그러나, 아직 Examples 부분이 번역이 전혀 되어있지 않아 이 부분을 집중적으로 번역할 예정. 각자 맡은 부분을 번역을 한 이후는 서로의 것을 검토하여 완성도를 높이고 다른 문서들의 오류를 찾아 수정할 예정.</p>
 
+<h1> 개인 역할 </h1>
 <h2> 김태규 </h2>
 <p> 번역할 문서 : Baby RNN, Baby MemNN, CIFAR-10 CNN, CIFAR-10 ResNet, Confolution filter visualization</p>
 <p> 정적 페이지 총괄 </p>
