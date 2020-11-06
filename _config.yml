@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Static page - OSS"
-email: zzangt2@gmail.com
-logo : "/img/Emblem_01.jpg"
-description: "Blog for OSS Class"
+title: "나가주세요"
+email: ldj9876@naver.com
+logo : "/img/bug.jpg"
+description: "혼자 보려고 "
 github_username: "ldj9876"
 minimal_mistakes_skin: dirt
 search: true
@@ -55,9 +55,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Lee DongJun"
+  name   : "ldj9876"
   avatar : "/img/bug.jpg"
-  bio    : "2017312576 Lee DongJun "
+  bio    : "서울 X 전공자 X 학부생"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
